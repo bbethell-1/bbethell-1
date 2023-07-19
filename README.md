@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbethell-1&show_icons=true&theme=transparent)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbethell-1&layout=donut)]
 **bbethell-1/bbethell-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
